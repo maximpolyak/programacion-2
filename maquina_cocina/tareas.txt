@@ -1,0 +1,40 @@
+HI, 
+
+------------- RECETAS -------------
+- Ada
+- Carla
+- Paula
+- Lali 
+- Sara
+
+Clase de recetas:
+- Variables simples: nombre
+- Varible Proceso: listas con objetos de pasos.
+- Metodo de preguntar ingredientes necesarios.
+
+Clase Pasos:
+- Variables simples: nombre, programa necesario
+- Variable lista con los objetos ingredientes
+
+Clase Ingredientes: 
+- Tipo
+- Nombre 
+
+
+------------ Robot --------------
+Clase Robot
+Variable: Estado
+Metodo comprobrar Estado
+metodo apagar
+metodo encender
+metodo avisar
+quien hace esto?
+
+----------- Progamas ------------
+Clase programa
+Variable
+
+----------- Menu ----------
+Clase Menu que use los objetos de recetas y demás, que las liste, que puedas seleccionarlas
+- Daniel
+- Ines
